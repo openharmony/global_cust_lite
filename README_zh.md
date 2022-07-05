@@ -1,4 +1,7 @@
 # 定制框架组件介绍<a name="ZH-CN_TOPIC_0000001126254525"></a>
+> ![icon-note.gif](figures/icon-note.gif) **说明：**
+> 
+> 本仓库已废弃，相关能力/功能迁移至[配置策略](https://gitee.com/openharmony/customization_config_policy)。对此带来的不便，深表抱歉。
 
 -   [简介](#section1881113251316)
 -   [目录](#section196561842161316)
@@ -51,5 +54,5 @@ char *filePath = GetOneCfgFile(testPathSuffix, CUST_TYPE_CONFIG, buf, MAX_PATH_L
 
 [global\_i18n\_lite](https://gitee.com/openharmony/global_i18n_lite/blob/master/README_zh.md)
 
-**global\_cust\_lite**
+global\_cust\_lite
 
